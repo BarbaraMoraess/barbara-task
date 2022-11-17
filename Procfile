@@ -1,0 +1,1 @@
+web: gunicorn barbara1.wsgi
